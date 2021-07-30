@@ -1,0 +1,23 @@
+p {
+	font-family: Helvetica, Arial, Geneva, sans-serif;
+	font-size: 0.8em:
+}
+
+h1 {
+	color: #OOCCF;
+	text-align: center;
+}
+
+h2 {
+	background-color: blue;
+	color: white;
+}
+
+.note {
+	color: orange;
+	}
+	
+	
+p, li {
+	color: green;
+	}

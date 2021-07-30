@@ -1,0 +1,6 @@
+Scott | loss | 6
+Harry | win | 5
+Sally | loss | 1
+Zach | loss | 3
+Tom | win | 6
+Andrew | loss | 1

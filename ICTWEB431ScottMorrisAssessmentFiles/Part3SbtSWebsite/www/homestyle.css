@@ -1,0 +1,98 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Helvetica, Calibri;
+	background-color: powderblue;
+}
+
+footer {
+	color: #87423c;
+	text-align: center;
+}
+
+h1 {
+	color: #87423c;
+	font-size: 36px;
+	text-align: center;
+	background-color: powderblue;
+}
+
+h2 {
+	color: #4d1d18;
+	font-size: 24px;
+	text-align: center;
+	background-color: powderblue;
+}
+
+p {
+	line-height: 150%;
+	background-color: powderblue;
+	color: #87423c;
+}
+
+a {
+	color: #87423c;
+}
+
+a:hover {
+	color: red;
+}
+
+a:visited {
+	color: blue;
+}
+
+.titlebar {
+	display: flex;
+	background-color: #4d1d18;
+	justify-content: space-evenly;
+}
+
+.titlebar a {
+	color: powderblue;
+	padding: 14px;
+	text-decoration: none;
+	text-align: center;
+	font-size: 36px; 
+}
+
+.titlebar a:hover {
+	color: #555
+}
+
+.titlebar a.current{
+	background: #87423c;
+}
+
+.slideshow {
+	background: powderblue;
+	text-align: center;
+}
+
+.row {
+	display: flex;
+	background-color: powderblue;
+	justify-content: space-evenly;
+}
+
+.column {
+	flex: 50%;
+	background-color: powderblue;
+	line-height: 150%;
+	color: #87423c;
+	margin: 10px;
+	text-align: center;
+}
+
+.maps {
+	display: flex;
+	height: 350px;
+	background: powderblue;
+	text-align: center;
+}
+
+.icons {
+	flex: 20%;
+}
